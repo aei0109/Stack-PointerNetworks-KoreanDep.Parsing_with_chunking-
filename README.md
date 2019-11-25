@@ -1,4 +1,4 @@
-# Stack-Pointer Networks for Korean Dpendency Parsing with chunking
+# Stack-Pointer Networks </br> for Korean Dpendency Parsing with Chunking
 
 This project is for Korean dependency parsing with __chunking__.  
 The code is based on the papers and codes below:
