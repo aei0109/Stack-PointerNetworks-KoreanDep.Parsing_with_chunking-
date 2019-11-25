@@ -8,5 +8,13 @@ The code is based on the papers and codes below:
   [ [paper](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08750806&language=ko_KR) ] [ [code](https://github.com/yseokchoi/KoreanDependencyParserusingStackPointer) ]  
 
 
-This code is updated from Choi's code to adapt to __Korean dependency parsing with chunking__.
 
+This code is updated from Choi's code to adapt to __Korean dependency parsing with chunking__.  
+
+
+
+## Embedding strucutre(Sentence component unit)
+<img src='./images/embedding_structure.png' height='300'/>  
+
+## Stack-pointer networks for Korean dependency parsing with chunking
+<img src='./images/stackptn_chunk.jpg' height='300'/>
