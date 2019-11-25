@@ -14,7 +14,7 @@ This code is updated from Choi's code to adapt to __Korean dependency parsing wi
 
 
 ## Embedding strucutre(Sentence component unit)
-<img src='./images/embedding_structure.png' height='300'/>  
+<img src='./images/embedding_structure.jpg' height='300'/>  
 
 ## Stack-pointer networks for Korean dependency parsing with chunking
 <img src='./images/stackptn_chunk.jpg' height='300'/>
