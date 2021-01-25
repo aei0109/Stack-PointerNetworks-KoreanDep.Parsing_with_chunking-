@@ -1,6 +1,6 @@
 # Stack-Pointer Networks </br> for Korean Dpendency Parsing with Chunking
 
-This project is for Korean dependency parsing with __chunking__.  
+This project is about Korean dependency parsing with __chunking__.  
 The code is based on the papers and codes below:
 * Ma, X. et al. (2018). "Stack-Pointer Networks for Dependency Parsing", _In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics_, pp.1403-1414.  
   [ [paper](https://arxiv.org/pdf/1805.01087.pdf) ] [ [code](https://github.com/XuezheMax/NeuroNLP2) ]  
