@@ -47,7 +47,7 @@ ID | FORM(cont) | FORM(func) | LEMMA | UPOS | XPOS | CHUNKTAG | HEADS | DEPREL |
 
 ## Requirement
 * python >= 3.6
-* pytoch >= 0.4
+* pytorch >= 0.4
 (and other software like numpy etc.)
 
 
